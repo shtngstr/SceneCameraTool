@@ -1,5 +1,4 @@
 # SceneCameraTool
-For Unity
 
 I made this on Unity 2020.3.11f1
 
