@@ -7,6 +7,8 @@ I made this on Unity 2020.3.11f1
 
 You can save scene position.
 
+##how to use
 To use this, Drop the file in an "Assets/Editor" folder.
 
 After that, You can open the window from the "SceneCameraTool" in the "Window" menu at the top of the Unity window.
+
