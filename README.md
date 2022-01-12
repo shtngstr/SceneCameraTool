@@ -1,12 +1,17 @@
 # SceneCameraTool
 
-I made this on Unity 2020.3.11f1
+作成バージョン Unity 2020.3.11f1
 
 ![Gif](https://user-images.githubusercontent.com/96217643/148952249-d1373a03-035d-46b0-96c0-95a089e03fc5.gif)
 
-You can save scene position.
+シーン編集時の座標の保存ができます。
 
-## how to use
-Place the file in an "Assets/Editor" folder.
+## 使い方
+スクリプトを "Assets/Editor" フォルダに入れてください。
 
-After that, You can open the window from the "Window/SceneCameraTool" at the top of the Unity window.
+Unity上部の "Window/SceneCameraTool" からウィンドウを開けます。
+
+### 生成されるファイルについて
+ウィンドウを開くと "Assets/Editor" フォルダにcamDataというScriptableObjectが生成されます。
+
+ファイルは、配列の要素数以外の変更に留めてください。
