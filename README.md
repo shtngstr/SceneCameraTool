@@ -15,3 +15,5 @@ Unity上部の "Window/SceneCameraTool" からウィンドウを開けます。
 ウィンドウを開くと "Assets/Editor" フォルダにcamDataというScriptableObjectが生成されます。
 
 ファイルは、配列の要素数以外の変更に留めてください。
+
+また、生成先を変えたい場合はスクリプトのpath変数を書き換えてください。
